@@ -17,4 +17,4 @@ https://drive.google.com/file/d/1jnwnVBo9lHJ6tCCduJrUieoO_DLGuAE_/view?usp=shari
 https://drive.google.com/file/d/1h4A_9Srl2IKTht4goLnLApqtsxTt7JCO/view?usp=sharing
 
 # Dataset
-Uloaded in the dataset folder
+Uploaded in the dataset folder
