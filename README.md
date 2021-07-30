@@ -3,7 +3,7 @@ This project uses an Artificial Neural Network Model to make predictions on Natu
 type model and is a part of our project submission for the Artifial Intelligence Externship Tracj under SmartBridge.
 
 
-# Team Members
+# Team Members- Team Tech-Nodes
 
 - Sweta Shah 
 - Dhruv Mahajan
